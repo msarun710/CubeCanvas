@@ -6,7 +6,7 @@
 #   continuously containing exact details (like mouse pixel coordinates or which keyboard key was pressed).
 # 3. When it is function(), we are asking the function to run immediately when the program starts. Whereas, we use just function in command 
 # when we want to run the function only upon clicking the button.
-4. 
+# 4. We sometimes need lamda functions in commands and buttons to delay execution.
 
 
 
